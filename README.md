@@ -12,8 +12,10 @@ Access the dataset from LANL here: https://csr.lanl.gov/data/
 
 ## Augmentation mechanism:
 Access to Hopper tool: https://github.com/grantho/lateral-movement-simulator
+
 Additional resources on the augmentation mechanism will be added soon...
 
 ## Detection mechanism:
 Access to TGN tool: https://github.com/twitter-research/tgn
+
 Additional resources on the detection mechanism will be added soon...
