@@ -1,8 +1,9 @@
-# Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks (Accepted at IEEE Symposium on Security & Privacy 2024)
+# Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks 
+(Accepted at IEEE Symposium on Security & Privacy 2024)
 <hr>
 
 ## Description:
-Jbeil is a data-driven framework for self-supervised deep learning on evolving networks represented as sequences of authentication timed events. The premise of this work lies in applying an encoder on a continuous-time evolving graph to produce for each time epoch the embedding of the visible graph nodes, and a decoder that leverage these embeddings to perform LM link prediction on unseen nodes.
+Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolving enterprise networks. Specifically, Jbeil takes as input time-stamped authentication events (benign events augmented with malicious ones) and output decision on LM activities within the network. The premise of this work is two folds: (i) lies in applying an encoder on a continuous-time evolving graph to produce for each time epoch the embedding of the visible graph nodes; and (ii) a decoder that leverage these embeddings to perform LM link prediction on unseen nodes using an inductive learning technique. 
 
 ## Graph map and graph features:
 Check Graph Features Extraction directory.
