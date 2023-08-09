@@ -1,4 +1,4 @@
-# Jbeil (Submitted to S&P 2024)
+# Jbeil (Accepted at IEEE Symposium on Security & Privacy 2024)
 <hr>
 
 ## Description:
