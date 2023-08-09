@@ -1,4 +1,4 @@
-# Jbeil (Accepted at IEEE Symposium on Security & Privacy 2024)
+# Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks (Accepted at IEEE Symposium on Security & Privacy 2024)
 <hr>
 
 ## Description:
