@@ -36,10 +36,10 @@ Our implementation adapts the code of [TGN](https://github.com/twitter-research/
 
 ## Cite us
     @inproceedings{khoury2023jbeil,
-  title={Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks},
-  author={Khoury, Joseph and Klisura, Dorde and Zanddizari, Hadi and Parra, Gonzalo De La Torre and Najafirad, Peyman and Bou-Harb, Elias},
-  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
-  pages={9--9},
-  year={2023},
-  organization={IEEE Computer Society}
-}
+    title={Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks},
+    author={Khoury, Joseph and Klisura, Dorde and Zanddizari, Hadi and Parra, Gonzalo De La Torre and Najafirad, Peyman and Bou-Harb, Elias},
+    booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
+    pages={9--9},
+    year={2023},
+    organization={IEEE Computer Society}
+    }
