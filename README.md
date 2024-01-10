@@ -1,6 +1,6 @@
 # Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks 
 
-<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a009/1RjE9NF72De" class="button big" target="_blank">Click Here to Read Paper.</a>
+<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a009/1RjE9NF72De" target="_blank" class="button big">Click Here to Read Paper.</a>
 
 Accepted at The 2024 IEEE Symposium on Security and Privacy (SP)
 <hr>
