@@ -1,5 +1,6 @@
 ## Description:
-This folder can be used to build graph and extract graph features.
+
+The main.ipynb file comprises an implementation to build graph and extract graph features from a network dataset.
 
 > features-Copy1: In_Unique_Usr
 
