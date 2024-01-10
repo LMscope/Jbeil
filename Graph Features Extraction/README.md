@@ -16,4 +16,4 @@ The other notebooks are specifically used to extract graph features based on the
 
 ## Acknowledgement
 
-Our Python implementation is based on the algorithms presented in [this paper](https://ieeexplore.ieee.org/iel7/4275028/5699970/09335647.pdf) and [this technical report](http://bit.ly/tech report 2020).
+Our Python implementation is based on the algorithms presented in [this paper](https://ieeexplore.ieee.org/iel7/4275028/5699970/09335647.pdf) and [this technical report](https://drive.google.com/file/d/1JmVjjwLXy8D7zDtQjePfxPN2PX3Lu_EH/view?pli=1).
