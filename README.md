@@ -2,7 +2,7 @@
 
 <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a009/1RjE9NF72De" target="_blank" class="button big">Click Here to Read Paper.</a>
 
-Accepted at The 2024 IEEE Symposium on Security and Privacy (SP)
+Accepted and Published at The 2024 IEEE Symposium on Security and Privacy (SP)
 <hr>
 
 ## Description:
