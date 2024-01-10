@@ -1,6 +1,7 @@
 # Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks 
 
 <github-button href="https://github.com/buttons/github-buttons/discussions" data-size="large" aria-label="Discuss buttons/github-buttons on GitHub">Discuss</github-button>
+import GithubButton from 'vue-github-button'
 
 (Accepted at IEEE Symposium on Security & Privacy 2024)
 <hr>
