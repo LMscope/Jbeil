@@ -1,6 +1,6 @@
 ## Description:
 
-The **main.ipynb** file comprises an implementation to build graph maps for network-based datasets. The code was tested on the LANL auth.txt.gz dataset ().
+The **main.ipynb** file comprises an implementation to build graph maps for network-based datasets. The code was tested on [LANL (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/).
 
 The other notebooks are specifically used to extract graph features based on the previously calculated graph maps. Details provided below:
 
