@@ -35,6 +35,11 @@ Additional resources on the detection mechanism will be added soon...
 Our implementation adapts the code of [TGN](https://github.com/twitter-research/tgn) and [Hopper- LM Simulator](https://github.com/grantho/lateral-movement-simulator) as the code base and extensively adapts it to our purpose. We thank the authors for sharing their code.
 
 ## Cite us
-
-# Any Header/subtitle or any text you want starting with hash
-    Your text
+    @inproceedings{khoury2023jbeil,
+  title={Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks},
+  author={Khoury, Joseph and Klisura, Dorde and Zanddizari, Hadi and Parra, Gonzalo De La Torre and Najafirad, Peyman and Bou-Harb, Elias},
+  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
+  pages={9--9},
+  year={2023},
+  organization={IEEE Computer Society}
+}
