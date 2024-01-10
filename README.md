@@ -16,7 +16,7 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 
 
 ## Graph map and graph features
-Check Graph Features Extraction directory.
+Check [Graph Features Extraction](https://github.com/LMscope/Jbeil/tree/main/Graph%20Features%20Extraction) folder.
 
 ## Authentication logs dataset
 Access to the **Los Alamos National Laboratory (LANL) auth.txt.gz** dataset here: [https://csr.lanl.gov/data/cyber1/](https://csr.lanl.gov/data/cyber1/)
