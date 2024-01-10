@@ -19,10 +19,10 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 Check Graph Features Extraction directory.
 
 ## Authentication logs dataset
-Access the dataset from **(LANL, auth.txt.gz)** here: [https://csr.lanl.gov/data/cyber1/](https://csr.lanl.gov/data/cyber1/)
+Access to the **Los Alamos National Laboratory (LANL) auth.txt.gz)** dataset here: [https://csr.lanl.gov/data/cyber1/](https://csr.lanl.gov/data/cyber1/)
 
 ## Augmentation mechanism
-Access to Hopper tool: https://github.com/grantho/lateral-movement-simulator
+Access to the **Hopper Lateral Movement Simulator** tool here: https://github.com/grantho/lateral-movement-simulator
 
 Additional resources on the augmentation mechanism will be added soon...
 
