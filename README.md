@@ -15,11 +15,11 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 [Joseph Khoury](https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao), Đorđe Klisura, Hadi Zanddizari, Gonzalo De La Torre Parra, Peyman Najafirad, Elias Bou-Harb.
 
 ## Dataset and Preprocessing
-# Download the public data and store their csv files in a folder named data/
+### Download the public data and store their csv files in a folder named data/
 1. Access to the [Los Alamos National Laboratory (LANL) Dataset (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/)
 2. Access to the [Pivoting Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8078189)
 
-# Preprocess the data
+### Preprocess the data
 The dense `npy` format is used to save features in binary format.
     python utils/preprocess_data.py --data auth
 
