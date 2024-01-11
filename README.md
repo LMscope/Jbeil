@@ -12,7 +12,7 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 ![LM](thumbnail.png)
 
 ## Authors
-[Joseph Khoury](https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao), Dorde Klisura, Hadi Zanddizari, Gonzalo De La Torre Parra, Peyman Najafirad, Elias Bou-Harb.
+[Joseph Khoury](https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao), Đorđe Klisura, Hadi Zanddizari, Gonzalo De La Torre Parra, Peyman Najafirad, Elias Bou-Harb.
 
 
 ## Network Graph Map and Graph Features
