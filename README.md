@@ -5,7 +5,7 @@
 Accepted and Published at The 2024 IEEE Symposium on Security and Privacy (SP)
 <hr>
 
-## Description
+## Introduction
 Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolving enterprise networks. Specifically, Jbeil takes as input time-stamped authentication events (benign events augmented with malicious ones) and output decision on LM activities within the network. The premise of this work is two folds: *(i)* lies in applying an encoder on a continuous-time evolving graph to produce for each time epoch the embedding of the visible graph nodes; and *(ii)* a decoder that leverage these embeddings to perform LM link prediction on unseen nodes using an inductive learning technique.
 
 
@@ -14,12 +14,20 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 ## Authors
 [Joseph Khoury](https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao), Đorđe Klisura, Hadi Zanddizari, Gonzalo De La Torre Parra, Peyman Najafirad, Elias Bou-Harb.
 
+## Dataset and Preprocessing
+# Download the public data and store their csv files in a folder named data/
+1. Access to the [Los Alamos National Laboratory (LANL) Dataset (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/)
+2. Access to the [Pivoting Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8078189)
+
+# Preprocess the data
+The dense `npy` format is used to save features in binary format.
+    python utils/preprocess_data.py --data auth
+
 
 ## Network Graph Map and Graph Features
 Check [Graph Features Extraction](https://github.com/LMscope/Jbeil/tree/main/Graph%20Features%20Extraction) folder.
 
-## Network-based Authentication Logs Dataset
-Access to the [Los Alamos National Laboratory (LANL) auth.txt.gz](https://csr.lanl.gov/data/cyber1/)
+
 
 ## LM Augmentation Mechanism
 Access to the **Hopper Lateral Movement Simulator** tool here: https://github.com/grantho/lateral-movement-simulator
