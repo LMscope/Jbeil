@@ -16,22 +16,14 @@ Jbeil is a data-driven framework to infer Lateral Movement (LM) attacks in evolv
 
 ## Dataset and Preprocessing
 ### Download the public data
-Store the csv files in a folder named `data/`
+Store the csv files in a folder named `data/`.
 1. Access to the [Los Alamos National Laboratory (LANL) Dataset (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/)
 2. Access to the [Pivoting Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8078189)
 
 ### Preprocess the data
 The dense `npy` format is used to save features in binary format.
-    python utils/preprocess_data.py --data auth
 
-    @inproceedings{khoury2023jbeil,
-    title={Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks},
-    author={Khoury, Joseph and Klisura, Dorde and Zanddizari, Hadi and Parra, Gonzalo De La Torre and Najafirad, Peyman and Bou-Harb, Elias},
-    booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
-    pages={9--9},
-    year={2023},
-    organization={IEEE Computer Society}
-    }
+    python utils/preprocess_data.py --data auth
 
 
 ## Network Graph Map and Graph Features
