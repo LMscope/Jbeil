@@ -1,3 +1,4 @@
+
 # Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks 
 
 <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a009/1RjE9NF72De" target="_blank" class="button big">Click Here to Read Full Paper</a>
@@ -23,8 +24,13 @@ Store the csv files in a folder named `data/`.
 ### Preprocess the data
 The dense `npy` format is used to save features in binary format.
 
+For LANL auth.txt.gz dataset:
+
     python utils/preprocess_data.py --data auth
 
+For pivoting dataset:
+
+    python utils/preprocess_data.py --data pivoting
 
 ## Network Graph Map and Graph Features
 Check [Graph Features Extraction](https://github.com/LMscope/Jbeil/tree/main/Graph%20Features%20Extraction) folder.
