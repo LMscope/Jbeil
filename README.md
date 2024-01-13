@@ -37,16 +37,17 @@ For pivoting dataset:
 Check [Graph Features Extraction](https://github.com/LMscope/Jbeil/tree/main/Graph%20Features%20Extraction) folder.
 
 
+## LM Detection Mechanism
+Check [Jbeil](https://github.com/LMscope/Jbeil/tree/main/Jbeil) folder.
+
+Usage:
+
+    python train_self_supervised.py --data auth
 
 ## LM Augmentation Mechanism
 Access to the **Hopper Lateral Movement Simulator** tool here: https://github.com/grantho/lateral-movement-simulator
 
 Additional resources on the augmentation mechanism will be added soon...
-
-## LM Detection Mechanism
-Access to TGN tool: https://github.com/twitter-research/tgn
-
-Additional resources on the detection mechanism will be added soon...
 
 ## Acknowledgement
 Our implementation adapts the code of [TGN](https://github.com/twitter-research/tgn) and [Hopper- LM Simulator](https://github.com/grantho/lateral-movement-simulator) as the code base and extensively adapts it to our purpose. We thank the authors for sharing their code.
