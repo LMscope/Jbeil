@@ -45,7 +45,7 @@ Usage:
     python train_self_supervised.py --data auth
 
 ## LM Augmentation Mechanism
-Access to the **Hopper Lateral Movement Simulator** tool here: https://github.com/grantho/lateral-movement-simulator
+Access to the [Hopper Lateral Movement Simulator Tool](https://github.com/grantho/lateral-movement-simulator).
 
 Additional resources on the augmentation mechanism will be added soon...
 
